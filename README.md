@@ -12,7 +12,7 @@ This repo guides you building an MVP that will help you transform your way of de
 
 ## AppTX Architecture Overview
 
-![AppTXArchitexture](https://AppTx Architecture.JPG)
+![AppTXArchitexture](https://AppTxArchitecture.JPG)
 
 ## Create Infrastructure Baseline
 
