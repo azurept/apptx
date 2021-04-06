@@ -5,12 +5,16 @@ AppTx Factory is an architectural approach to build an app modernization factory
 This repo guides you building an MVP that will help you transform your way of developing and deploying applications with an architectural approach that leverages modular and loosely coupled services.
 
 ## Table of contents
-* [AppTX Architecture Overview]
-* [Create Infrastructure Baseline]
-* [Deploy Legacy App @ AppTX]
-* [Deploy New App @ AppTx]
+* [AppTX Architecture Overview](#apptx-architecture-overview)
+* [Create Infrastructure Baseline](#create-infrastructure-baseline)
+* [Deploy Legacy App @ AppTX](#deploy-legacy-app-@-apptx)
+* [Deploy New App @ AppTx](#deploy-new-app-@-apptx)
 
-## Create infrastructure baseline
+## AppTX Architecture Overview
+
+..
+
+## Create Infrastructure Baseline
 
 ..
 
