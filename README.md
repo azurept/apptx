@@ -7,8 +7,8 @@ This repo guides you building an MVP that will help you transform your way of de
 ## Table of contents
 * [AppTX Architecture Overview](#apptx-architecture-overview)
 * [Create Infrastructure Baseline](#create-infrastructure-baseline)
-* [Deploy Legacy App @ AppTX](#deploy-legacy-app-with-apptx)
-* [Deploy New App @ AppTx](#deploy-new-app-with-apptx)
+* [Deploy Legacy App with AppTX](#deploy-legacy-app-with-apptx)
+* [Deploy New App with AppTx](#deploy-new-app-with-apptx)
 
 ## AppTX Architecture Overview
 
