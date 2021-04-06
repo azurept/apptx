@@ -1,4 +1,4 @@
-# :factory: AppTX Factory with Kubernetes and DevOps
+# :factory: AppTX Factory with Microservices and DevOps
 
 AppTx Factory is an architectural approach to build an app modernization factory for legacy and old enterprise applications. 
 
