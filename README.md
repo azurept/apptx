@@ -1,4 +1,4 @@
-# :factory: AppTX Factory with Microservices, Kubernetes and DevOps
+# :factory: AppTX Factory with Kubernetes and DevOps
 
 ## What you will find in this repo?
 
